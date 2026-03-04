@@ -57,6 +57,24 @@ SQL queries used to process and analyze the data can be found in the queries fol
 5. **Visualizations**:
     - Use **Power BI** to open the dashboard provided in the main folder (`japan_covid_dashboard.pbix`).
 
+## Dashboard Preview
+
+Here is a preview of the interactive dashboard I created to analyse COVID-19 trends in Japan. You can interact with the dashboard in Power BI to explore data for all 47 prefectures.
+
+![COVID-19 Dashboard](japan_covid_dashboard.png)
+
+Prefectures Displayed:
+1. Tokyo
+2. Kanagawa
+3. Osaka
+4. Aichi
+5. Saitama
+6. Chiba
+7. Hyogo
+8. Hokkaido
+9. Fukuoka
+10. Shizuoka
+
 ## Insights
 The project reveals several key insights into COVID-19 trends in Japan, including:
 
