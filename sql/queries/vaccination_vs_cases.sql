@@ -1,5 +1,7 @@
 -- vaccination_vs_cases.sql
 -- Compare total cases vs vaccination rates over time
+-- Author: Hue-Mai Tang
+-- Created: February 2026
 
 SELECT
     date,
