@@ -3,6 +3,23 @@
 ## Overview
 This project provides an overview of COVID-19 in Japan from 2020 to 2023, focusing on both national and prefecture-level data. The dataset was sourced from Kaggle and processed using SQL queries in PostgreSQL. The project includes an interactive dashboard to analyze cases, fatalities, vaccinations, and daily new cases.
 
+## Dashboard Preview
+Here is a preview of the interactive dashboard I created to analyse COVID-19 trends in Japan. You can interact with the dashboard in Power BI to explore data for all 47 prefectures.
+
+![COVID-19 Dashboard](japan_covid_dashboard.png)
+
+Prefectures displayed in this preview:
+1. Tokyo
+2. Kanagawa
+3. Osaka
+4. Aichi
+5. Saitama
+6. Chiba
+7. Hyogo
+8. Hokkaido
+9. Fukuoka
+10. Shizuoka
+
 ## Data Sources
 - **Kaggle COVID-19 Japan Dataset**: [Kaggle Dataset](https://www.kaggle.com/datasets/lisphilar/covid19-dataset-in-japan), which used data from the Ministry of Health, Labour and Welfare in Japan
 
@@ -56,24 +73,6 @@ SQL queries used to process and analyze the data can be found in the queries fol
 
 5. **Visualizations**:
     - Use **Power BI** to open the dashboard provided in the main folder (`japan_covid_dashboard.pbix`).
-
-## Dashboard Preview
-
-Here is a preview of the interactive dashboard I created to analyse COVID-19 trends in Japan. You can interact with the dashboard in Power BI to explore data for all 47 prefectures.
-
-![COVID-19 Dashboard](japan_covid_dashboard.png)
-
-Prefectures Displayed:
-1. Tokyo
-2. Kanagawa
-3. Osaka
-4. Aichi
-5. Saitama
-6. Chiba
-7. Hyogo
-8. Hokkaido
-9. Fukuoka
-10. Shizuoka
 
 ## Insights
 The project reveals several key insights into COVID-19 trends in Japan, including:
